@@ -14,7 +14,7 @@ namespace Order.API.Models.Contexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            
+
         }
     }
 }
